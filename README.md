@@ -20,8 +20,6 @@
 
 ## 📋 Project Overview
 
-Both studies come from Carnegie Mellon's *Time Series Forecasting with Python* course and were published with the instructor's permission.
-
 **Why this matters:** in risk work, a forecast is only useful if it beats doing nothing clever, and a model validated on one test period can simply have been lucky. These studies apply the same checks used in model validation and VaR backtesting: compare against a naive benchmark, test over several out-of-sample windows, and look at the sign of the errors, not just their size.
 
 ---
