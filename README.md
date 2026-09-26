@@ -2,7 +2,7 @@
 
 > **Two forecasting case studies that judge models the way a risk team would: against a naive benchmark, across multiple out-of-sample windows, and with the bias of each model on the record.**
 
-![Python](https://img.shields.io/badge/python-3.11+-blue) ![Course](https://img.shields.io/badge/CMU-Time%20Series%20Forecasting-C41230) ![Status](https://img.shields.io/badge/status-completed-green)
+![Python](https://img.shields.io/badge/python-3.11+-blue) ![Course](https://img.shields.io/badge/Time%20Series%20Forecasting-C41230) ![Status](https://img.shields.io/badge/status-completed-green)
 
 ---
 
